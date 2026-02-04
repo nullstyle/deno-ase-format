@@ -1,7 +1,9 @@
 # @nullstyle/ase-format
 
+**WARNING:  This was vibed;  don't use it.  it's just for me for now, and it will get de-vibed (harmonized?) over time.**
+
 A Deno-first library for reading and writing Aseprite (`.ase`/`.aseprite`)
-files.
+files.  
 
 ## Features
 
@@ -25,7 +27,7 @@ files.
 ## Installation
 
 ```bash
-deno add @nullstyle/ase-format
+deno add jsr:@nullstyle/ase-format
 ```
 
 Or import directly:
